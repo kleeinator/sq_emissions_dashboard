@@ -213,10 +213,6 @@ For more details behind the assumptions and values used, see
 </p>
 
 <p style='text-align:center;'>
-<strong>REMINDER: LINK ACTUAL README DOCUMENT!!!!!!!!</strong>
-</p>
-
-<p style='text-align:center;'>
 <strong>Not sure what numbers to start with in the "Merchant Inputs" section?<strong>
 </p>
 
